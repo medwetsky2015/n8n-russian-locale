@@ -1,0 +1,10 @@
+{
+ "__displayName": "Twilio Trigger",
+ "__description": "Запускает рабочий процесс при обновлении Twilio",
+ "updates.displayName": "Триггер при",
+ "updates.options.com.twilio.messaging.inbound-message.received.displayName": "Новое SMS",
+ "updates.options.com.twilio.messaging.inbound-message.received.description": "Когда получается SMS-сообщение",
+ "updates.options.com.twilio.voice.insights.call-summary.complete.displayName": "Новый звонок",
+ "updates.options.com.twilio.voice.insights.call-summary.complete.description": "Когда поступает вызов",
+ "callTriggerNotice.displayName": "Событие «New Call» может занять до тридцати минут для срабатывания"
+}

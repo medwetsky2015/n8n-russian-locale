@@ -1,0 +1,6 @@
+{
+ "__displayName": "Customer Messenger (n8n training)",
+ "__description": "Тестовый узел для обучения n8n",
+ "customerId.displayName": "ID клиента",
+ "message.displayName": "Сообщение"
+}

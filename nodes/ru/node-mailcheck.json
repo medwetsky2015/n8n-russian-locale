@@ -1,0 +1,11 @@
+{
+ "__displayName": "Mailcheck",
+ "__description": "Использовать Mailcheck API",
+ "resource.displayName": "Ресурс",
+ "resource.options.email.displayName": "Эл. почта",
+ "operation.displayName": "Операция",
+ "operation.options.check.displayName": "Проверить",
+ "email.displayName": "Эл. почта",
+ "email.description": "Адрес эл. почты для проверки",
+ "email.placeholder": "name@email.com"
+}

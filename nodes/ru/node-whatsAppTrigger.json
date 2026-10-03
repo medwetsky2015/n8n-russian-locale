@@ -1,0 +1,20 @@
+{
+ "__displayName": "WhatsApp Trigger",
+ "__description": "Обработка событий WhatsApp через вебхуки",
+ "whatsAppNotice.displayName": "Из-за ограничений Facebook API вы можете использовать только один триггер WhatsApp для каждого Facebook App",
+ "updates.displayName": "Триггер при",
+ "updates.options.account_review_update.displayName": "Обновление отзыва об аккаунте",
+ "updates.options.account_update.displayName": "Обновление аккаунта",
+ "updates.options.business_capability_update.displayName": "Обновление бизнес-возможностей",
+ "updates.options.message_template_quality_update.displayName": "Обновление качества шаблона сообщения",
+ "updates.options.message_template_status_update.displayName": "Обновление статуса шаблона сообщения",
+ "updates.options.messages.displayName": "Сообщения",
+ "updates.options.phone_number_name_update.displayName": "Обновление названия номера телефона",
+ "updates.options.phone_number_quality_update.displayName": "Обновление качества номера телефона",
+ "updates.options.security.displayName": "Безопасность",
+ "updates.options.template_category_update.displayName": "Обновление категории шаблона",
+ "options.displayName": "Параметры",
+ "options.placeholder": "Добавить вариант",
+ "options.options.messageStatusUpdates.displayName": "messageStatusUpdates",
+ "options.options.messageStatusUpdates.description": "WhatsApp отправляет уведомления в триггер при изменении статуса сообщения (например, с Sent на Delivered и с Delivered на Read). Чтобы избежать множественных выполнений для одного сообщения WhatsApp, можно настроить триггер на выполнение только при выбранных обновлениях статуса сообщения."
+}

@@ -10,3 +10,4 @@ ru-patch/
 # служебное
 .DS_Store
 *.log
+work/

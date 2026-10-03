@@ -1,0 +1,13 @@
+{
+ "__displayName": "Typeform Trigger",
+ "__description": "Запускает рабочий процесс при отправке формы Typeform",
+ "authentication.displayName": "Аутентификация",
+ "authentication.options.accessToken.displayName": "Токен доступа",
+ "authentication.options.oAuth2.displayName": "OAuth2",
+ "formId.displayName": "Название формы или ID",
+ "formId.description": "Форма, которая должна запускать рабочий процесс при отправке. Выберите из списка или укажите ID с помощью <a href=\"https://docs.n8n.io/code/expressions/\">выражения</a>.",
+ "simplifyAnswers.displayName": "Упростить ответы",
+ "simplifyAnswers.description": "Указывается, преобразовывать ли ответы в пару ключ:значение (\"FIELD_TITLE\":\"USER_ANSER\") для удобства обработки",
+ "onlyAnswers.displayName": "Только ответы",
+ "onlyAnswers.description": "Возвращать ли только ответы формы, а не другие данные"
+}

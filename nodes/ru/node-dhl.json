@@ -1,0 +1,13 @@
+{
+ "__displayName": "DHL",
+ "__description": "Использовать DHL API",
+ "resource.displayName": "Ресурс",
+ "resource.options.shipment.displayName": "Отправка",
+ "operation.displayName": "Операция",
+ "operation.options.get.displayName": "Получить сведения отслеживания",
+ "trackingNumber.displayName": "Номер отслеживания",
+ "options.displayName": "Параметры",
+ "options.placeholder": "Добавить вариант",
+ "options.options.recipientPostalCode.displayName": "recipientPostalCode",
+ "options.options.recipientPostalCode.description": "DHL вернёт более подробную информацию о доставке, если вы укажете почтовый индекс получателя — это служит шагом проверки"
+}

@@ -1,0 +1,16 @@
+{
+ "__displayName": "Google Translate",
+ "__description": "Перевести данные с помощью Google Translate",
+ "authentication.displayName": "Аутентификация",
+ "authentication.options.serviceAccount.displayName": "Сервисный аккаунт",
+ "authentication.options.oAuth2.displayName": "OAuth2 (рекомендуется)",
+ "resource.displayName": "Ресурс",
+ "resource.options.language.displayName": "Язык",
+ "operation.displayName": "Операция",
+ "operation.options.translate.displayName": "Перевести",
+ "operation.options.translate.description": "Перевести данные",
+ "text.displayName": "Текст",
+ "text.description": "Входной текст для перевода",
+ "translateTo.displayName": "Перевести на",
+ "translateTo.description": "Язык перевода входного текста — один из кодов, перечисленных в <a href=\"https://cloud.google.com/translate/docs/languages\">Language Support</a>. Выберите из списка или укажите ID с помощью <a href=\"https://docs.n8n.io/code/expressions/\">выражения</a>."
+}

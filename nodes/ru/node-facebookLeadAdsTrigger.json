@@ -1,0 +1,15 @@
+{
+ "__displayName": "Facebook Lead Ads Trigger",
+ "__description": "Обработка событий Facebook Lead Ads через вебхуки",
+ "facebookLeadAdsNotice.displayName": "Из-за ограничений Facebook API вы можете использовать только один триггер Facebook Lead Ads для каждого Facebook App",
+ "event.displayName": "Событие",
+ "event.options.newLead.displayName": "Новый лид",
+ "page.displayName": "Страница",
+ "page.description": "Страница, связанная с формой для получения новых лидов",
+ "form.displayName": "Форма",
+ "form.description": "Форма для мониторинга с целью получения данных лида при отправке",
+ "options.displayName": "Параметры",
+ "options.placeholder": "Добавить вариант",
+ "options.options.simplifyOutput.displayName": "simplifyOutput",
+ "options.options.simplifyOutput.description": "Возвращать упрощённую версию события вебхука вместо всех полей"
+}

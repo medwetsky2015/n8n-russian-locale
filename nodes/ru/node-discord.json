@@ -1,0 +1,20 @@
+{
+ "__displayName": "Discord",
+ "__description": "Отправляет данные в Discord",
+ "oldVersionNotice.displayName": "<strong>Доступна новая версия узла:</strong> получите последнюю версию с дополнительными функциями на панели узлов.",
+ "webhookUri.displayName": "Webhook URL",
+ "text.displayName": "Содержимое",
+ "text.placeholder": "Hello World!",
+ "options.displayName": "Дополнительные поля",
+ "options.placeholder": "Добавить вариант",
+ "options.options.allowedMentions.displayName": "allowedMentions",
+ "options.options.attachments.displayName": "вложения",
+ "options.options.avatarUrl.displayName": "avatarUrl",
+ "options.options.components.displayName": "conditionExpression",
+ "options.options.embeds.displayName": "emptyQueryResult",
+ "options.options.flags.displayName": "flags",
+ "options.options.payloadJson.displayName": "payloadJson",
+ "options.options.username.displayName": "username",
+ "options.options.tts.displayName": "tts",
+ "options.options.tts.description": "Указывается, будет ли это сообщение отправлено как сообщение Text To Speech"
+}

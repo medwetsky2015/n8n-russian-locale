@@ -1,0 +1,8 @@
+{
+ "__displayName": "Wufoo Trigger",
+ "__description": "Обработка событий Wufoo через вебхуки",
+ "form.displayName": "Название или ID форм",
+ "form.description": "Форма, при заполнении которой сработает этот узел. Выберите из списка или укажите ID с помощью <a href=\"https://docs.n8n.io/code/expressions/\">выражения</a>.",
+ "onlyAnswers.displayName": "Только ответы",
+ "onlyAnswers.description": "Возвращать ли только ответы формы, а не другие данные"
+}

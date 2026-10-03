@@ -1,0 +1,19 @@
+{
+ "__displayName": "Strava Trigger",
+ "__description": "Запускает рабочий процесс при возникновении событий Strava",
+ "object.displayName": "Объект",
+ "object.options.*.displayName": "[Все]",
+ "object.options.activity.displayName": "Активность",
+ "object.options.athlete.displayName": "Спортсмен",
+ "event.displayName": "Событие",
+ "event.options.*.displayName": "[Все]",
+ "event.options.create.displayName": "Создано",
+ "event.options.delete.displayName": "Удалено",
+ "event.options.update.displayName": "Обновлено",
+ "resolveData.displayName": "Разрешить данные",
+ "resolveData.description": "По умолчанию данные webhook содержат только ID объекта. Если этот параметр активирован, данные будут автоматически разрешены.",
+ "options.displayName": "Параметры",
+ "options.placeholder": "Добавить вариант",
+ "options.options.deleteIfExist.displayName": "demo.quickbase.com",
+ "options.options.deleteIfExist.description": "Strava позволяет иметь только одну подписку в любой момент времени. Если вы хотите удалить текущую подписку, чтобы освободить место для новой подписки с текущими параметрами, установите этот параметр в значение true. Имейте в виду, что это разрушительная операция."
+}

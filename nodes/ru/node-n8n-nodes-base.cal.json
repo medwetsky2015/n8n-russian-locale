@@ -1,0 +1,23 @@
+{
+ "__description": "Обрабатывать события Cal.com через вебхуки",
+ "events.displayName": "События",
+ "events.options.BOOKING_CANCELLED.displayName": "Бронирование отменено",
+ "events.options.BOOKING_CANCELLED.description": "Получать уведомления при отмене события Cal",
+ "events.options.BOOKING_CREATED.displayName": "Бронирование создано",
+ "events.options.BOOKING_CREATED.description": "Получать уведомления при создании нового события Cal",
+ "events.options.BOOKING_RESCHEDULED.displayName": "Бронирование перенесено",
+ "events.options.BOOKING_RESCHEDULED.description": "Получать уведомления при переносе события Cal",
+ "events.options.MEETING_ENDED.displayName": "Встреча завершена",
+ "events.options.MEETING_ENDED.description": "Получать уведомления при завершении события или встречи Cal",
+ "version.displayName": "Версия API",
+ "version.options.1.displayName": "До v2.0",
+ "version.options.2.displayName": "v2.0 и выше",
+ "options.displayName": "Параметры",
+ "options.placeholder": "Добавить поле",
+ "options.options.appId.displayName": "appId",
+ "options.options.appId.description": "ID приложения для мониторинга",
+ "options.options.eventTypeId.displayName": "eventTypeId",
+ "options.options.eventTypeId.description": "Тип события для мониторинга. Выберите из списка или укажите ID с помощью <a href=\"https://docs.n8n.io/code/expressions/\">выражения</a>.",
+ "options.options.payloadTemplate.displayName": "payloadTemplate",
+ "options.options.payloadTemplate.description": "Шаблон для настройки полезной нагрузки вебхука"
+}

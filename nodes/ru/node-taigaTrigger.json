@@ -1,0 +1,20 @@
+{
+ "__displayName": "Taiga Trigger",
+ "__description": "Обработка событий Taiga через вебхук",
+ "projectId.displayName": "Название проекта 或 ID",
+ "projectId.description": "Выберите из списка или укажите ID с помощью <a href=\"https://docs.n8n.io/code/expressions/\">выражения</a>",
+ "resources.displayName": "Ресурсы",
+ "resources.description": "Ресурсы для прослушивания",
+ "resources.options.all.displayName": "Все",
+ "resources.options.issue.displayName": "Проблема",
+ "resources.options.milestone.displayName": "Веха (спринт)",
+ "resources.options.task.displayName": "Задача",
+ "resources.options.userstory.displayName": "User Story",
+ "resources.options.wikipage.displayName": "Страница Wiki",
+ "operations.displayName": "Операции",
+ "operations.description": "Операции для прослушивания",
+ "operations.options.all.displayName": "Все",
+ "operations.options.create.displayName": "Создать",
+ "operations.options.delete.displayName": "Удалить",
+ "operations.options.change.displayName": "Обновить"
+}

@@ -1,0 +1,9 @@
+{
+ "__displayName": "Прочитать бинарный файл",
+ "__description": "Читает бинарный файл с диска",
+ "filePath.displayName": "Путь к файлу",
+ "filePath.description": "Путь к файлу для чтения",
+ "filePath.placeholder": "/data/example.jpg",
+ "dataPropertyName.displayName": "Название свойства",
+ "dataPropertyName.description": "Название бинарного свойства, в которое записывать данные прочитанного файла"
+}

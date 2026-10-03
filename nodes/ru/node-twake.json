@@ -1,0 +1,19 @@
+{
+ "__displayName": "Twake",
+ "__description": "Использовать Twake API",
+ "resource.displayName": "Ресурс",
+ "resource.options.message.displayName": "Сообщение",
+ "resource.options.message.description": "Отправить данные в приложение сообщений",
+ "operation.displayName": "Операция",
+ "operation.options.send.displayName": "Отправить",
+ "operation.options.send.description": "Отправить сообщение",
+ "channelId.displayName": "Название или ID канала",
+ "channelId.description": "ID канала. Выберите из списка или укажите ID с помощью <a href=\"https://docs.n8n.io/code/expressions/\">выражения</a>.",
+ "content.displayName": "Содержимое",
+ "content.description": "Содержимое сообщения",
+ "additionalFields.displayName": "Дополнительные поля",
+ "additionalFields.placeholder": "Добавить поле",
+ "additionalFields.options.senderIcon.displayName": "senderIcon",
+ "additionalFields.options.senderIcon.description": "URL изображения/иконки",
+ "additionalFields.options.senderName.displayName": "senderName"
+}

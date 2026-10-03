@@ -1,0 +1,6 @@
+{
+ "__displayName": "Toggl Trigger",
+ "__description": "Запускает рабочий процесс при возникновении событий Toggl",
+ "event.displayName": "Событие",
+ "event.options.newTimeEntry.displayName": "Новая запись времени"
+}

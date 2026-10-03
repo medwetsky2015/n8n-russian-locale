@@ -1,0 +1,5 @@
+{
+ "__displayName": "Error Trigger",
+ "__description": "Запускает рабочий процесс при ошибке другого рабочего процесса",
+ "notice.displayName": "Этот узел срабатывает при ошибке в другом рабочем процессе, если он настроен на это. <a href=\"https://docs.n8n.io/integrations/core-nodes/n8n-nodes-base.errortrigger\" target=\"_blank\">Подробнее</a>"
+}

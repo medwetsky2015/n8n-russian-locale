@@ -1,0 +1,17 @@
+{
+ "__displayName": "Notion Trigger",
+ "__description": "Запускает рабочий процесс при возникновении событий Notion",
+ "authentication.displayName": "Аутентификация",
+ "authentication.options.apiKey.displayName": "Ключ API",
+ "authentication.options.oAuth2.displayName": "OAuth2",
+ "event.displayName": "Событие",
+ "event.options.pageAddedToDatabase.displayName": "Страница добавлена в базу данных",
+ "event.options.pagedUpdatedInDatabase.displayName": "Страница обновлена в базе данных",
+ "notionNotice.displayName": "В Notion убедитесь, что вы <a href=\"https://www.notion.com/help/add-and-manage-connections-with-the-api\" target=\"_blank\">добавили своё подключение</a> к страницам, к которым хотите получить доступ.",
+ "databaseId.displayName": "База данных",
+ "databaseId.description": "База данных Notion для работы",
+ "dataSourceId.displayName": "Источник данных",
+ "dataSourceId.description": "Источник данных Notion для работы",
+ "simple.displayName": "Упростить",
+ "simple.description": "Возвращать упрощённую версию ответа вместо исходных данных"
+}

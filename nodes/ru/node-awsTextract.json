@@ -1,0 +1,13 @@
+{
+ "__displayName": "AWS Textract",
+ "__description": "Отправляет данные в Amazon Textract",
+ "authentication.displayName": "Аутентификация",
+ "authentication.options.iam.displayName": "AWS (IAM)",
+ "authentication.options.assumeRole.displayName": "AWS (Assume Role)",
+ "operation.displayName": "Операция",
+ "operation.options.analyzeExpense.displayName": "Анализировать квитанцию или счёт",
+ "binaryPropertyName.displayName": "Название поля входных данных",
+ "binaryPropertyName.description": "Название входного поля с бинарными данными файла для загрузки. Поддерживаемые типы: PNG, JPEG.",
+ "simple.displayName": "Упростить",
+ "simple.description": "Возвращать упрощённую версию ответа вместо исходных данных"
+}

@@ -1,0 +1,10 @@
+{
+ "__displayName": "Лимит",
+ "__description": "Ограничить количество элементов",
+ "maxItems.displayName": "Макс. элементов",
+ "maxItems.description": "Если элементов больше, чем это число, некоторые удаляются",
+ "keep.displayName": "Сохранить",
+ "keep.description": "При удалении элементов, следует ли сохранять те, что в начале или в конце",
+ "keep.options.firstItems.displayName": "Первые элементы",
+ "keep.options.lastItems.displayName": "Последние элементы"
+}

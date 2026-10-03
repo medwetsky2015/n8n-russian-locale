@@ -1,0 +1,12 @@
+{
+ "__displayName": "Autopilot Trigger",
+ "__description": "Обработка событий Autopilot через вебхуки",
+ "event.displayName": "Событие",
+ "event.options.contactAdded.displayName": "Контакт добавлен",
+ "event.options.contactAddedToList.displayName": "Контакт добавлен в список",
+ "event.options.contactEnteredSegment.displayName": "Контакт вошёл в сегмент",
+ "event.options.contactLeftSegment.displayName": "Контакт покинул сегмент",
+ "event.options.contactRemovedFromList.displayName": "Контакт удалён из списка",
+ "event.options.contactUnsubscribed.displayName": "Контакт отписался",
+ "event.options.contactUpdated.displayName": "Контакт обновлён"
+}

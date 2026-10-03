@@ -1,0 +1,19 @@
+{
+ "__displayName": "Gumroad Trigger",
+ "__description": "Обработка событий Gumroad через вебхуки",
+ "authentication.displayName": "Аутентификация",
+ "authentication.options.accessToken.displayName": "Токен доступа",
+ "authentication.options.oAuth2.displayName": "OAuth2",
+ "resource.displayName": "Ресурс",
+ "resource.description": "Ресурс будет инициировать событие",
+ "resource.options.cancellation.displayName": "Отмена",
+ "resource.options.cancellation.description": "При подписке на этот ресурс вы будете получать уведомления об отменах подписок пользователя",
+ "resource.options.dispute.displayName": "Спор",
+ "resource.options.dispute.description": "При подписке на этот ресурс вы будете получать уведомления о спорах, возбуждённых против продаж пользователя",
+ "resource.options.dispute_won.displayName": "Спор выигран",
+ "resource.options.dispute_won.description": "При подписке на этот ресурс вы будете получать уведомления о выигранных спорах по продажам",
+ "resource.options.refund.displayName": "Возврат",
+ "resource.options.refund.description": "При подписке на этот ресурс вы будете получать уведомления о возвратах по продажам пользователя",
+ "resource.options.sale.displayName": "Продажа",
+ "resource.options.sale.description": "При подписке на этот ресурс вы будете получать уведомления о продажах пользователя"
+}

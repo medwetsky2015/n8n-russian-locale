@@ -1,0 +1,8 @@
+{
+ "__displayName": "AWS SNS Trigger",
+ "__description": "Обработка событий AWS SNS через вебхуки",
+ "authentication.displayName": "Аутентификация",
+ "authentication.options.iam.displayName": "AWS (IAM)",
+ "authentication.options.assumeRole.displayName": "AWS (Assume Role)",
+ "topic.displayName": "Тема"
+}

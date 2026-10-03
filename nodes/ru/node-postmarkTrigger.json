@@ -1,0 +1,22 @@
+{
+ "__displayName": "Postmark Trigger",
+ "__description": "Запускает рабочий процесс при возникновении событий Postmark",
+ "events.displayName": "События",
+ "events.description": "События Webhook, которые будут включены для этой конечной точки",
+ "events.options.bounce.displayName": "Отскок",
+ "events.options.bounce.description": "Срабатывать при отказе доставки",
+ "events.options.click.displayName": "Нажать",
+ "events.options.click.description": "Срабатывать при клике",
+ "events.options.delivery.displayName": "Доставка",
+ "events.options.delivery.description": "Срабатывать при доставке",
+ "events.options.open.displayName": "Открыть",
+ "events.options.open.description": "Срабатывать при открытии вебхука",
+ "events.options.spamComplaint.displayName": "Жалоба на спам",
+ "events.options.spamComplaint.description": "Срабатывать при жалобе на спам",
+ "events.options.subscriptionChange.displayName": "Изменение подписки",
+ "events.options.subscriptionChange.description": "Срабатывать при изменении подписки",
+ "firstOpen.displayName": "Первое открытие",
+ "firstOpen.description": "Срабатывает только при первом открытии для события \"Open\"",
+ "includeContent.displayName": "Включить содержимое",
+ "includeContent.description": "Включать содержимое сообщения для событий \"Bounce\" и \"Spam Complaint\""
+}

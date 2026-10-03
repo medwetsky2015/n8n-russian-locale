@@ -1,0 +1,14 @@
+{
+ "__displayName": "MSG91",
+ "__description": "Отправляет транзакционные SMS через MSG91",
+ "resource.displayName": "Ресурс",
+ "resource.options.sms.displayName": "SMS",
+ "operation.displayName": "Операция",
+ "operation.options.send.displayName": "Отправить",
+ "operation.options.send.description": "Отправить SMS",
+ "from.displayName": "ID отправителя",
+ "from.description": "Номер, с которого отправлять сообщение",
+ "to.description": "Номер с кодом страны, на который следует отправить сообщение",
+ "message.displayName": "Сообщение",
+ "message.description": "Сообщение для отправки"
+}

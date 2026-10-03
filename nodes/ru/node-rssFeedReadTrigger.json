@@ -1,0 +1,6 @@
+{
+ "__displayName": "Триггер RSS Feed",
+ "__description": "Запускает рабочий процесс при обновлении RSS-ленты",
+ "feedUrl.displayName": "URL ленты",
+ "feedUrl.description": "URL RSS-канала для опроса"
+}

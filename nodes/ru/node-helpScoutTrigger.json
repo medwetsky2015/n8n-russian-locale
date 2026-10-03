@@ -1,0 +1,17 @@
+{
+ "__displayName": "Триггер Help Scout",
+ "__description": "Запускает рабочий процесс при возникновении событий Help Scout",
+ "events.displayName": "События",
+ "events.options.convo.assigned.displayName": "Беседа — назначена",
+ "events.options.convo.created.displayName": "Беседа — создана",
+ "events.options.convo.deleted.displayName": "Беседа — удалена",
+ "events.options.convo.merged.displayName": "Беседа — объединена",
+ "events.options.convo.moved.displayName": "Беседа — перемещена",
+ "events.options.convo.status.displayName": "Беседа — статус",
+ "events.options.convo.tags.displayName": "Беседа — теги",
+ "events.options.convo.agent.reply.created.displayName": "Ответ агента беседы — создан",
+ "events.options.convo.customer.reply.created.displayName": "Ответ клиента в беседе — создан",
+ "events.options.convo.note.created.displayName": "Заметка беседы — создана",
+ "events.options.customer.created.displayName": "Клиент — создан",
+ "events.options.satisfaction.ratings.displayName": "Рейтинг - получен"
+}

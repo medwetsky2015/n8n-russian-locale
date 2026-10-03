@@ -1,0 +1,21 @@
+{
+ "__displayName": "Pushcut",
+ "__description": "Использовать Pushcut API",
+ "resource.displayName": "Ресурс",
+ "resource.options.notification.displayName": "Уведомление",
+ "operation.displayName": "Операция",
+ "operation.options.send.displayName": "Отправить",
+ "operation.options.send.description": "Отправить уведомление",
+ "notificationName.displayName": "Название или ID уведомления",
+ "notificationName.description": "Выберите из списка или укажите ID с помощью <a href=\"https://docs.n8n.io/code/expressions/\">выражения</a>",
+ "additionalFields.displayName": "Дополнительные поля",
+ "additionalFields.placeholder": "Добавить поле",
+ "additionalFields.options.devices.displayName": "diff_since",
+ "additionalFields.options.devices.description": "Список устройств, на которые отправляется это уведомление (по умолчанию — все устройства). Выберите из списка или укажите ID с помощью <a href=\"https://docs.n8n.io/code/expressions/\">выражения</a>.",
+ "additionalFields.options.input.displayName": "input",
+ "additionalFields.options.input.description": "Значение, передаваемое как вход для действия уведомления",
+ "additionalFields.options.text.displayName": "текст",
+ "additionalFields.options.text.description": "Текст, который используется вместо определённого в приложении",
+ "additionalFields.options.title.displayName": "заголовок",
+ "additionalFields.options.title.description": "Заголовок, который используется вместо определённого в приложении"
+}

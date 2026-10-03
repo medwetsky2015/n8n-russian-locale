@@ -1,0 +1,6 @@
+{
+ "__displayName": "PayPal Trigger",
+ "__description": "Обработка событий PayPal через вебхуки",
+ "events.displayName": "Названия событий или ID",
+ "events.description": "Событие для прослушивания. Выберите из списка или укажите ID с помощью <a href=\"https://docs.n8n.io/code/expressions/\">выражения</a>."
+}

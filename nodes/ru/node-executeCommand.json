@@ -1,0 +1,9 @@
+{
+ "__displayName": "Выполнить команду",
+ "__description": "Выполняет команду на хосте",
+ "executeOnce.displayName": "Выполнить один раз",
+ "executeOnce.description": "Указывается, выполнять ли только один раз вместо одного раза для каждой записи",
+ "command.displayName": "Команда",
+ "command.description": "Команда для выполнения",
+ "command.placeholder": "edgeValues"
+}

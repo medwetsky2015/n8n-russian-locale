@@ -1,0 +1,7 @@
+{
+ "__displayName": "Databricks Trigger",
+ "__description": "Запускает рабочий процесс при запуске задания Databricks или изменении состояния обновлений конвейера",
+ "authentication.displayName": "Аутентификация",
+ "authentication.options.accessToken.displayName": "Токен доступа",
+ "authentication.options.oAuth2.displayName": "OAuth2"
+}

@@ -1,0 +1,13 @@
+{
+ "__displayName": "Триггер Form.io",
+ "__description": "Обработка событий form.io через вебхуки",
+ "projectId.displayName": "Название проекта 或 ID",
+ "projectId.description": "Выберите из списка или укажите ID с помощью <a href=\"https://docs.n8n.io/code/expressions/\">выражения</a>",
+ "formId.displayName": "Название формы или ID",
+ "formId.description": "Выберите из списка или укажите ID с помощью <a href=\"https://docs.n8n.io/code/expressions/\">выражения</a>",
+ "events.displayName": "События триггера",
+ "events.options.create.displayName": "Отправка создана",
+ "events.options.update.displayName": "Отправка обновлена",
+ "simple.displayName": "Упростить",
+ "simple.description": "Возвращать упрощённую версию ответа вместо исходных данных"
+}

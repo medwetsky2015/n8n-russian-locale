@@ -1,0 +1,17 @@
+{
+ "__displayName": "Строка",
+ "__description": "Использовать Line API",
+ "deprecationNotice.displayName": "Этот узел устарел. LINE Notify прекращён 1 апреля 2025, поэтому уведомления не отправляются. Подробнее <a href=\"https://notify-bot.line.me/closing-announce\" target=\"_blank\">здесь</a>",
+ "resource.displayName": "Ресурс",
+ "resource.options.notification.displayName": "Уведомление",
+ "operation.displayName": "Операция",
+ "operation.options.send.displayName": "Отправить",
+ "operation.options.send.description": "Отправляет уведомления пользователям или группам",
+ "message.displayName": "Сообщение",
+ "additionalFields.displayName": "Дополнительные поля",
+ "additionalFields.placeholder": "Добавить поле",
+ "additionalFields.options.imageUi.displayName": "imageUi",
+ "additionalFields.options.notificationDisabled.displayName": "notificationDisabled",
+ "additionalFields.options.notificationDisabled.description": "<p>true: Пользователь не получает push-уведомление при отправке сообщения.</p><p>false: Пользователь получает push-уведомление при отправке сообщения</p>",
+ "additionalFields.options.stickerUi.displayName": "stickerUi"
+}

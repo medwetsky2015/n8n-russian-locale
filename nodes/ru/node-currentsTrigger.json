@@ -1,0 +1,17 @@
+{
+ "__displayName": "Currents Trigger",
+ "__description": "Запускает рабочий процесс при возникновении событий Currents",
+ "projectId.displayName": "Проект",
+ "projectId.description": "Проект Currents",
+ "noticeGroups.displayName": "Currents отправляет отдельные события webhook для каждой группы в запуске. Если в вашем запуске несколько групп, вы получите отдельные события для каждой группы.",
+ "events.displayName": "События",
+ "events.description": "События для прослушивания",
+ "events.options.RUN_CANCELED.displayName": "Запуск отменён",
+ "events.options.RUN_CANCELED.description": "Срабатывает при ручной отмене запуска",
+ "events.options.RUN_FINISH.displayName": "Запуск завершён",
+ "events.options.RUN_FINISH.description": "Срабатывает при завершении запуска",
+ "events.options.RUN_START.displayName": "Запуск начат",
+ "events.options.RUN_START.description": "Срабатывает при начале нового запуска",
+ "events.options.RUN_TIMEOUT.displayName": "Тайм-аут запуска",
+ "events.options.RUN_TIMEOUT.description": "Срабатывает при превышении запуском лимита времени"
+}

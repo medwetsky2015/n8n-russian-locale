@@ -1,0 +1,16 @@
+{
+ "__displayName": "MQTT",
+ "__description": "Отправить сообщения в MQTT",
+ "topic.displayName": "Тема",
+ "topic.description": "Тема для публикации",
+ "sendInputData.displayName": "Отправить входные данные",
+ "sendInputData.description": "Отправлять ли данные, которые получает узел, в виде JSON",
+ "message.displayName": "Сообщение",
+ "message.description": "Сообщение для публикации",
+ "options.displayName": "Параметры",
+ "options.placeholder": "Добавить вариант",
+ "options.options.qos.displayName": "qos",
+ "options.options.qos.description": "Уровень подписки QoS",
+ "options.options.retain.displayName": "retain",
+ "options.options.retain.description": "Обычно, если издатель публикует сообщение в топик, и никто не подписан на этот топик, сообщение просто отбрасывается брокером. Однако издатель может указать брокеру сохранять последнее сообщение в этом топике, установив флаг retain в true."
+}

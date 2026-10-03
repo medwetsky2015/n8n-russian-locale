@@ -1,0 +1,11 @@
+{
+ "__displayName": "Симулировать триггер",
+ "__description": "Симулировать узел триггера",
+ "icon.displayName": "Значок для отображения на холсте",
+ "icon.description": "Выберите тип узла, чтобы показать соответствующую иконку",
+ "subtitle.displayName": "Подзаголовок",
+ "subtitle.placeholder": "e.g. 'record: read'",
+ "jsonOutput.displayName": "Вывод (JSON)",
+ "executionDuration.displayName": "Длительность выполнения (мс)",
+ "executionDuration.description": "Длительность выполнения в миллисекундах"
+}

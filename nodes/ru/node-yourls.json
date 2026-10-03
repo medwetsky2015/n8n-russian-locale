@@ -1,0 +1,22 @@
+{
+ "__displayName": "Yourls",
+ "__description": "Использовать Yourls API",
+ "resource.displayName": "Ресурс",
+ "resource.options.url.displayName": "URL",
+ "operation.displayName": "Операция",
+ "operation.options.expand.displayName": "Развернуть",
+ "operation.options.expand.description": "Развернуть URL",
+ "operation.options.shorten.displayName": "Сократить",
+ "operation.options.shorten.description": "Сократить URL",
+ "operation.options.stats.displayName": "Статистика",
+ "operation.options.stats.description": "Получить статистику по одному короткому URL",
+ "url.displayName": "URL",
+ "url.description": "URL для сокращения",
+ "additionalFields.displayName": "Дополнительные поля",
+ "additionalFields.placeholder": "Добавить поле",
+ "additionalFields.options.keyword.displayName": "ключевое слово",
+ "additionalFields.options.title.displayName": "заголовок",
+ "additionalFields.options.title.description": "Заголовок для пользовательских коротких URL",
+ "shortUrl.displayName": "Короткий URL",
+ "shortUrl.description": "Короткий URL для получения статистики"
+}

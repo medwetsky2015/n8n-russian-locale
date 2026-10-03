@@ -1,0 +1,12 @@
+{
+ "__displayName": "Mailjet Trigger",
+ "__description": "Обработка событий Mailjet через вебхуки",
+ "event.displayName": "Событие",
+ "event.description": "Определяет, для каких событий ресурса срабатывает вебхук",
+ "event.options.blocked.displayName": "email.bounce",
+ "event.options.bounce.displayName": "email.open",
+ "event.options.open.displayName": "email.sent",
+ "event.options.sent.displayName": "email.spam",
+ "event.options.spam.displayName": "email.unsub",
+ "event.options.unsub.displayName": "emailAttachments"
+}

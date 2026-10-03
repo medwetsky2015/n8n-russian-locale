@@ -1,0 +1,18 @@
+{
+ "__displayName": "WooCommerce Trigger",
+ "__description": "Обработка событий WooCommerce через вебхуки",
+ "event.displayName": "Событие",
+ "event.description": "Определяет, для каких событий ресурса срабатывает вебхук",
+ "event.options.coupon.created.displayName": "coupon.deleted",
+ "event.options.coupon.deleted.displayName": "coupon.updated",
+ "event.options.coupon.updated.displayName": "couponLinesValues",
+ "event.options.customer.created.displayName": "customer.deleted",
+ "event.options.customer.deleted.displayName": "customer.updated",
+ "event.options.customer.updated.displayName": "customerCode",
+ "event.options.order.created.displayName": "order.created",
+ "event.options.order.deleted.displayName": "order.deleted",
+ "event.options.order.updated.displayName": "order.updated",
+ "event.options.product.created.displayName": "product.created",
+ "event.options.product.deleted.displayName": "product.deleted",
+ "event.options.product.updated.displayName": "product.updated"
+}

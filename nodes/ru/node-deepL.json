@@ -1,0 +1,23 @@
+{
+ "__displayName": "DeepL",
+ "__description": "Перевести данные с помощью DeepL",
+ "resource.displayName": "Ресурс",
+ "resource.options.language.displayName": "Язык",
+ "operation.displayName": "Операция",
+ "operation.options.translate.displayName": "Перевести",
+ "operation.options.translate.description": "Перевести данные",
+ "text.displayName": "Текст",
+ "text.description": "Введите текст для перевода",
+ "translateTo.displayName": "Название или ID целевого языка",
+ "translateTo.description": "Язык для перевода на. Выберите из списка или укажите ID с помощью <a href=\"https://docs.n8n.io/code/expressions/\">выражения</a>.",
+ "additionalFields.displayName": "Дополнительные поля",
+ "additionalFields.placeholder": "Добавить поле",
+ "additionalFields.options.sourceLang.displayName": "sourceLang",
+ "additionalFields.options.sourceLang.description": "Язык для перевода с. Выберите из списка или укажите ID с помощью <a href=\"https://docs.n8n.io/code/expressions/\">выражения</a>.",
+ "additionalFields.options.splitSentences.displayName": "splitSentences",
+ "additionalFields.options.splitSentences.description": "Как движок перевода должен разбивать предложения",
+ "additionalFields.options.preserveFormatting.displayName": "preserveFormatting",
+ "additionalFields.options.preserveFormatting.description": "Указывает, должен ли движок перевода сохранять исходное форматирование, даже если обычно он исправляет некоторые аспекты",
+ "additionalFields.options.formality.displayName": "formality",
+ "additionalFields.options.formality.description": "Насколько формальным или неформальным должен быть целевой текст. Может поддерживаться не для всех языков."
+}

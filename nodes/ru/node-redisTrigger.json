@@ -1,0 +1,12 @@
+{
+ "__displayName": "Триггер Redis",
+ "__description": "Подписаться на канал Redis",
+ "channels.displayName": "Каналы",
+ "channels.description": "Каналы для подписки, несколько каналов можно определить через запятую. Поддерживается символ подстановки (*).",
+ "options.displayName": "Параметры",
+ "options.placeholder": "Добавить вариант",
+ "options.options.jsonParseBody.displayName": "jsonParseBody",
+ "options.options.jsonParseBody.description": "Пытаться ли разобрать сообщение в объект",
+ "options.options.onlyMessage.displayName": "onlyMessage",
+ "options.options.onlyMessage.description": "Возвращать ли только свойство сообщения"
+}

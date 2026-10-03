@@ -1,0 +1,23 @@
+{
+ "__displayName": "Google Ads",
+ "__description": "Использовать API Google Ads",
+ "resource.displayName": "Ресурс",
+ "resource.options.campaign.displayName": "Кампания",
+ "operation.displayName": "Операция",
+ "operation.options.getAll.displayName": "Получить несколько",
+ "operation.options.getAll.description": "Получить несколько кампаний, связанных с указанным аккаунтом",
+ "operation.options.get.displayName": "Получить",
+ "operation.options.get.description": "Получить конкретную кампанию",
+ "campaigsNotice.displayName": "Разделите названия полей, выраженные в <i>микросекундах</i>, на 1 000 000, чтобы получить фактическое значение",
+ "managerCustomerId.displayName": "ID клиента менеджера",
+ "clientCustomerId.displayName": "ID клиента",
+ "campaignId.displayName": "ID кампании",
+ "campaignId.description": "ID кампании",
+ "additionalOptions.displayName": "Дополнительные параметры",
+ "additionalOptions.description": "Дополнительные параметры для получения кампаний",
+ "additionalOptions.placeholder": "Добавить вариант",
+ "additionalOptions.options.dateRange.displayName": "dateRange",
+ "additionalOptions.options.dateRange.description": "Фильтровать статистику по периоду",
+ "additionalOptions.options.campaignStatus.displayName": "campaignUi",
+ "additionalOptions.options.campaignStatus.description": "Фильтровать кампании по статусу"
+}

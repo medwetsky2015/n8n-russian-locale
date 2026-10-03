@@ -1,0 +1,11 @@
+{
+ "__displayName": "Триггер Formstack",
+ "__description": "Запускает рабочий процесс при отправке формы Formstack.",
+ "authentication.displayName": "Аутентификация",
+ "authentication.options.accessToken.displayName": "Токен доступа",
+ "authentication.options.oAuth2.displayName": "OAuth2",
+ "formId.displayName": "Название формы или ID",
+ "formId.description": "Форма Formstack для отслеживания новых отправок. Выберите из списка или укажите ID с помощью <a href=\"https://docs.n8n.io/code/expressions/\">выражения</a>.",
+ "simple.displayName": "Упростить",
+ "simple.description": "Возвращать упрощённую версию ответа вместо исходных данных"
+}

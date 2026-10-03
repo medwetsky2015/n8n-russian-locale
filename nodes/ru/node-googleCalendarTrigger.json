@@ -1,0 +1,16 @@
+{
+ "__displayName": "Google Calendar Trigger",
+ "__description": "Запускает рабочий процесс при возникновении событий Google Calendar",
+ "calendarId.displayName": "Календарь",
+ "calendarId.description": "Google Calendar для работы",
+ "triggerOn.displayName": "Триггер при",
+ "triggerOn.options.eventCancelled.displayName": "Событие отменено",
+ "triggerOn.options.eventCreated.displayName": "Событие создано",
+ "triggerOn.options.eventEnded.displayName": "Событие завершено",
+ "triggerOn.options.eventStarted.displayName": "Событие началось",
+ "triggerOn.options.eventUpdated.displayName": "Событие обновлено",
+ "options.displayName": "Параметры",
+ "options.placeholder": "Добавить вариант",
+ "options.options.matchTerm.displayName": "matchTerm",
+ "options.options.matchTerm.description": "Термины поиска по свободному тексту для фильтрации событий, совпадающих с этими терминами в любом поле, кроме расширенных свойств"
+}

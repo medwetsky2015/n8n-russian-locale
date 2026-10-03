@@ -1,0 +1,21 @@
+{
+ "__displayName": "Удалить дубликаты",
+ "__description": "Удалить элементы с совпадающими значениями полей",
+ "compare.displayName": "Сравнить",
+ "compare.description": "Поля входных элементов для сравнения на предмет их совпадения",
+ "compare.options.allFields.displayName": "Все поля",
+ "compare.options.allFieldsExcept.displayName": "Все поля, кроме",
+ "compare.options.selectedFields.displayName": "Выбранные поля",
+ "fieldsToExclude.displayName": "Поля для исключения",
+ "fieldsToExclude.description": "Поля во входных данных для исключения из сравнения",
+ "fieldsToExclude.placeholder": "напр. email, name",
+ "fieldsToCompare.displayName": "Поля для сравнения",
+ "fieldsToCompare.description": "Поля во входных данных для добавления к сравнению",
+ "fieldsToCompare.placeholder": "напр. email, name",
+ "options.displayName": "Параметры",
+ "options.placeholder": "Добавить поле",
+ "options.options.disableDotNotation.displayName": "disableDotNotation",
+ "options.options.disableDotNotation.description": "Запретить ссылки на дочерние поля через `parent.child` в названии поля",
+ "options.options.removeOtherFields.displayName": "removeOtherFields",
+ "options.options.removeOtherFields.description": "Удалять ли поля, которые не сравниваются. Если отключено, будут сохранены значения из первого дубликата."
+}

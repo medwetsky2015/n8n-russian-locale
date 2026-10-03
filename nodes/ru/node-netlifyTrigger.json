@@ -1,0 +1,15 @@
+{
+ "__displayName": "Netlify Trigger",
+ "__description": "Обработка событий netlify через вебхуки",
+ "siteId.displayName": "Название сайта или ID",
+ "siteId.description": "Выберите ID сайта. Выберите из списка или укажите ID с помощью <a href=\"https://docs.n8n.io/code/expressions/\">выражения</a>.",
+ "event.displayName": "Событие",
+ "event.options.deployBuilding.displayName": "Развёртывание выполняется",
+ "event.options.deployFailed.displayName": "Развёртывание не удалось",
+ "event.options.deployCreated.displayName": "Развёртывание создано",
+ "event.options.submissionCreated.displayName": "Форма отправлена",
+ "formId.displayName": "Название формы или ID",
+ "formId.description": "Выберите форму. Выберите из списка или укажите ID с помощью <a href=\"https://docs.n8n.io/code/expressions/\">выражения</a>.",
+ "simple.displayName": "Упростить",
+ "simple.description": "Возвращать упрощённую версию ответа вместо исходных данных"
+}

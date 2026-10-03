@@ -1,0 +1,13 @@
+{
+ "__displayName": "Workable Trigger",
+ "__description": "Запускает рабочий процесс при возникновении событий Workable",
+ "triggerOn.displayName": "Триггер при",
+ "triggerOn.options.candidateCreated.displayName": "Кандидат создан",
+ "triggerOn.options.candidateMoved.displayName": "Кандидат перемещён",
+ "filters.displayName": "Фильтры",
+ "filters.placeholder": "Добавить фильтр",
+ "filters.options.job.displayName": "job",
+ "filters.options.job.description": "Получить уведомления только для одного задания. Выберите из списка или укажите ID с помощью <a href=\"https://docs.n8n.io/code/expressions/\">выражения</a>.",
+ "filters.options.stage.displayName": "этап",
+ "filters.options.stage.description": "Получить уведомления для конкретных этапов, напр. «hired». Выберите из списка или укажите ID с помощью <a href=\"https://docs.n8n.io/code/expressions/\">выражения</a>."
+}

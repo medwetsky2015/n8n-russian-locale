@@ -1,0 +1,21 @@
+{
+ "__displayName": "AMQP Sender",
+ "__description": "Отправляет необработанное сообщение через AMQP 1.0, выполняется один раз для каждого элемента",
+ "sink.displayName": "Очередь / Тема",
+ "sink.description": "Название очереди или топика для публикации",
+ "sink.placeholder": "e.g. type = page AND space = \"DOCS\" AND text ~ \"roadmap\"",
+ "headerParametersJson.displayName": "Заголовки",
+ "headerParametersJson.description": "Параметры заголовка в формате JSON (плоский объект). Отправляются как application_properties в метаданных amqp-сообщения.",
+ "options.displayName": "Параметры",
+ "options.placeholder": "Добавить вариант",
+ "options.options.containerId.displayName": "containerId",
+ "options.options.containerId.description": "Будет использоваться для передачи в бэкенд RHEA как container_id",
+ "options.options.dataAsObject.displayName": "dataAttributesValues",
+ "options.options.dataAsObject.description": "Отправлять данные как объект",
+ "options.options.reconnect.displayName": "reconnect",
+ "options.options.reconnect.description": "Автоматически ли переподключаться при отключении",
+ "options.options.reconnectLimit.displayName": "reconnectLimit",
+ "options.options.reconnectLimit.description": "Максимальное количество попыток переподключения",
+ "options.options.sendOnlyProperty.displayName": "sendOnlyProperty",
+ "options.options.sendOnlyProperty.description": "Единственное свойство для отправки. Если пусто, будет отправлен весь элемент."
+}

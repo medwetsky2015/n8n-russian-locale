@@ -1,0 +1,20 @@
+{
+ "__displayName": "Acuity Scheduling Trigger",
+ "__description": "Обработка событий Acuity Scheduling через вебхуки",
+ "authentication.displayName": "Аутентификация",
+ "authentication.options.apiKey.displayName": "Ключ API",
+ "authentication.options.oAuth2.displayName": "OAuth2",
+ "event.displayName": "Событие",
+ "event.options.appointment.canceled.displayName": "appointment.canceled",
+ "event.options.appointment.canceled.description": "Вызывается при отмене встречи",
+ "event.options.appointment.changed.displayName": "appointment.changed",
+ "event.options.appointment.changed.description": "Вызывается при любом изменении встречи",
+ "event.options.appointment.rescheduled.displayName": "appointment.rescheduled",
+ "event.options.appointment.rescheduled.description": "Вызывается при переносе встречи на новое время",
+ "event.options.appointment.scheduled.displayName": "appointment.scheduled",
+ "event.options.appointment.scheduled.description": "Вызывается один раз при первоначальном бронировании встречи",
+ "event.options.order.completed.displayName": "order.completed",
+ "event.options.order.completed.description": "Вызывается при завершении заказа",
+ "resolveData.displayName": "Разрешить данные",
+ "resolveData.description": "По умолчанию данные webhook содержат только ID объекта. Если этот параметр активирован, данные будут автоматически разрешены."
+}

@@ -1,0 +1,13 @@
+{
+ "__displayName": "Emelia Trigger",
+ "__description": "Обработка событий активности кампаний Emelia через вебхуки",
+ "campaignId.displayName": "Название кампании или ID",
+ "campaignId.description": "Выберите из списка или укажите ID с помощью <a href=\"https://docs.n8n.io/code/expressions/\">выражения</a>",
+ "events.displayName": "События",
+ "events.options.bounced.displayName": "Эл. письмо отклонено",
+ "events.options.opened.displayName": "Письмо открыто",
+ "events.options.replied.displayName": "Ответ на эл. почту",
+ "events.options.sent.displayName": "Письмо отправлено",
+ "events.options.clicked.displayName": "Ссылка нажата",
+ "events.options.unsubscribed.displayName": "Отписанный контакт"
+}

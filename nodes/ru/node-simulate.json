@@ -1,0 +1,17 @@
+{
+ "__displayName": "Симулировать",
+ "__description": "Симулировать узел",
+ "icon.displayName": "Значок для отображения на холсте",
+ "icon.description": "Выберите тип узла, чтобы показать соответствующую иконку",
+ "subtitle.displayName": "Подзаголовок",
+ "subtitle.placeholder": "e.g. 'record: read'",
+ "output.displayName": "Вывод",
+ "output.options.all.displayName": "Возвращает все входные элементы",
+ "output.options.specify.displayName": "Укажите, сколько входных элементов вернуть",
+ "output.options.custom.displayName": "Укажите вывод как JSON",
+ "numberOfItems.displayName": "Количество элементов",
+ "numberOfItems.description": "Количество элементов для возврата; если больше длины входа, будут возвращены все элементы",
+ "jsonOutput.displayName": "JSON",
+ "executionDuration.displayName": "Длительность выполнения (мс)",
+ "executionDuration.description": "Длительность выполнения в миллисекундах"
+}

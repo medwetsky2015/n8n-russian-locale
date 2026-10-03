@@ -1,0 +1,13 @@
+{
+ "__displayName": "Интервал",
+ "__description": "Запускает рабочий процесс через заданный интервал",
+ "__activationMessage": "Ваш интервальный триггер теперь будет запускать выполнения по расписанию, которое вы определили.",
+ "notice.displayName": "Этот рабочий процесс будет выполняться по расписанию, которое вы определите здесь, после публикации.<br><br>Для тестирования вы также можете запустить его вручную: вернитесь на холст и нажмите «execute workflow»",
+ "interval.displayName": "Интервал",
+ "interval.description": "Значение интервала",
+ "unit.displayName": "Единица",
+ "unit.description": "Единица значения интервала",
+ "unit.options.seconds.displayName": "Секунды",
+ "unit.options.minutes.displayName": "Минуты",
+ "unit.options.hours.displayName": "Часы"
+}

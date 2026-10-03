@@ -1,0 +1,6 @@
+{
+ "__displayName": "Триггер опроса E2E Test",
+ "__description": "Фиктивный триггер опроса для e2e-тестирования",
+ "url.displayName": "URL",
+ "url.description": "GET-эндпоинт для опроса. Ожидается возврат JSON вида { \"items\": [...] }."
+}

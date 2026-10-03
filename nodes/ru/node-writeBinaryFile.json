@@ -1,0 +1,13 @@
+{
+ "__displayName": "Записать двоичный файл",
+ "__description": "Записывает двоичный файл на диск",
+ "fileName.displayName": "Название файла",
+ "fileName.description": "Путь, по которому нужно записать файл",
+ "fileName.placeholder": "/data/example.jpg",
+ "dataPropertyName.displayName": "Название свойства",
+ "dataPropertyName.description": "Название бинарного свойства, содержащего данные для файла, который будет записан",
+ "options.displayName": "Параметры",
+ "options.placeholder": "Добавить вариант",
+ "options.options.append.displayName": "append",
+ "options.options.append.description": "Указывается, добавлять ли в существующий файл"
+}

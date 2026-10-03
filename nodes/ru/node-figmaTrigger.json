@@ -1,0 +1,20 @@
+{
+ "__displayName": "Figma Trigger (Beta)",
+ "__description": "Запускает рабочий процесс при возникновении событий Figma",
+ "authentication.displayName": "Аутентификация",
+ "authentication.options.accessToken.displayName": "Токен доступа",
+ "authentication.options.oAuth2.displayName": "OAuth2",
+ "teamId.displayName": "ID команды",
+ "teamId.description": "Триггер будет отслеживать изменения в этой команде Figma. ID команды можно найти в URL страницы команды Figma при просмотре в веб-браузере: figma.com/files/team/{TEAM-ID}/.",
+ "triggerOn.displayName": "Триггер при",
+ "triggerOn.options.fileComment.displayName": "Файл прокомментирован",
+ "triggerOn.options.fileComment.description": "Запускается, когда кто-то комментирует файл",
+ "triggerOn.options.fileDelete.displayName": "Файл удалён",
+ "triggerOn.options.fileDelete.description": "Запускается при удалении файла. Не запускается для всех файлов в папке, если папка удалена.",
+ "triggerOn.options.fileUpdate.displayName": "Файл обновлён",
+ "triggerOn.options.fileUpdate.description": "Запускается при сохранении или удалении файла. Это происходит при закрытии файла или в течение 30 секунд после внесения изменений.",
+ "triggerOn.options.fileVersionUpdate.displayName": "Версия файла обновлена",
+ "triggerOn.options.fileVersionUpdate.description": "Запускается при создании именованной версии в истории версий файла",
+ "triggerOn.options.libraryPublish.displayName": "Публикация библиотеки",
+ "triggerOn.options.libraryPublish.description": "Запускается при публикации файла библиотеки"
+}

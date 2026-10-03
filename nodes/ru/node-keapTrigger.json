@@ -1,0 +1,8 @@
+{
+ "__displayName": "Keap Trigger",
+ "__description": "Запускает рабочий процесс при возникновении событий Infusionsoft",
+ "eventId.displayName": "Название или ID события",
+ "eventId.description": "Выберите из списка или укажите ID с помощью <a href=\"https://docs.n8n.io/code/expressions/\">выражения</a>",
+ "rawData.displayName": "Исходные данные",
+ "rawData.description": "Возвращать ли данные точно в том виде, в котором они были получены от API"
+}

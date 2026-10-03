@@ -1,0 +1,10 @@
+{
+ "__displayName": "Google Business Profile Trigger",
+ "__description": "Получает отзывы из Google Business Profile и запускает рабочий процесс с заданными интервалами опроса.",
+ "event.displayName": "Событие",
+ "event.options.reviewAdded.displayName": "Отзыв добавлен",
+ "account.displayName": "Аккаунт",
+ "account.description": "Аккаунт Google Business Profile",
+ "location.displayName": "Расположение",
+ "location.description": "Конкретное местоположение или бизнес, связанный с аккаунтом"
+}

@@ -1,0 +1,22 @@
+{
+ "__displayName": "Rundeck",
+ "__description": "Управление Rundeck API",
+ "resource.displayName": "Ресурс",
+ "resource.options.job.displayName": "Работа",
+ "operation.displayName": "Операция",
+ "operation.options.execute.displayName": "Выполнить",
+ "operation.options.execute.description": "Выполнить задание",
+ "operation.options.getMetadata.displayName": "Получить метаданные",
+ "operation.options.getMetadata.description": "Получить метаданные задания",
+ "jobid.displayName": "ID работы",
+ "jobid.description": "Идентификатор задания для получения метаданных",
+ "jobid.placeholder": "ID задания Rundeck",
+ "arguments.displayName": "Аргументы",
+ "arguments.placeholder": "Добавить аргумент",
+ "arguments.options.arguments.displayName": "аргументы",
+ "arguments.options.arguments.values.name.displayName": "Название",
+ "arguments.options.arguments.values.value.displayName": "Значение",
+ "filter.displayName": "Фильтр",
+ "filter.description": "Фильтровать узлы Rundeck по имени",
+ "filter.placeholder": "Добавить фильтры"
+}

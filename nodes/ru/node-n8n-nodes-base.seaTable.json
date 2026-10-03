@@ -1,0 +1,9 @@
+{
+ "tableName.displayName": "Название таблицы или ID",
+ "tableName.description": "Название таблицы SeaTable для доступа. Выберите из списка или укажите ID с помощью <a href=\"https://docs.n8n.io/code/expressions/\">выражения</a>.",
+ "event.displayName": "Событие",
+ "event.options.rowCreated.displayName": "Строка создана",
+ "event.options.rowCreated.description": "Триггер на вновь созданных строках",
+ "simple.displayName": "Упростить",
+ "simple.description": "Возвращать упрощённую версию ответа вместо исходных данных"
+}

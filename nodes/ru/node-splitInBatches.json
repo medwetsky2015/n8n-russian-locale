@@ -1,0 +1,11 @@
+{
+ "__displayName": "Split In Batches",
+ "__description": "Разделите данные на пакеты и выполните итерацию по каждому пакету",
+ "splitInBatchesNotice.displayName": "Вам может не понадобиться этот узел — узлы n8n автоматически выполняются один раз для каждого входного элемента. <a href=\"https://docs.n8n.io/getting-started/key-concepts/looping.html#using-loops-in-n8n\" target=\"_blank\">Подробнее</a>",
+ "batchSize.displayName": "Размер пакета",
+ "batchSize.description": "Количество элементов для возврата при каждом вызове",
+ "options.displayName": "Параметры",
+ "options.placeholder": "Добавить вариант",
+ "options.options.reset.displayName": "reset",
+ "options.options.reset.description": "Будет ли узел сброшен и заново инициализирован с текущими входными данными"
+}

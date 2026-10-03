@@ -1,0 +1,12 @@
+{
+ "__displayName": "Триггер Flow",
+ "__description": "Обработка событий Flow через вебхуки",
+ "resource.displayName": "Ресурс",
+ "resource.description": "Ресурс, который запускает вебхук",
+ "resource.options.list.displayName": "Проект",
+ "resource.options.task.displayName": "Задача",
+ "listIds.displayName": "ID проекта",
+ "listIds.description": "Список ID, возможно, более известный как \"Projects\", разделённый запятой (,)",
+ "taskIds.displayName": "ID задачи",
+ "taskIds.description": "ID задач, разделённые запятой (,)"
+}

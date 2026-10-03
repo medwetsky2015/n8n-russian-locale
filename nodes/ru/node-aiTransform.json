@@ -1,0 +1,10 @@
+{
+ "__displayName": "AI Transform",
+ "__description": "Изменить данные на основе инструкций, написанных на простом английском",
+ "instructions.displayName": "Инструкции",
+ "instructions.description": "Укажите инструкции о том, как вы хотите преобразовать данные, затем нажмите «Сгенерировать код». Используйте точечную нотацию для ссылки на вложенные поля (напр. address.street).",
+ "instructions.placeholder": "Пример: объедините 'firstname' и 'lastname' в поле 'details.name' и отсортируйте по 'email'",
+ "codeGeneratedForPrompt.displayName": "Код, сгенерированный для запроса",
+ "jsCode.displayName": "Сгенерированный JavaScript",
+ "jsCode.hint": "Только для чтения. Чтобы отредактировать этот код, измените инструкции или скопируйте и вставьте его в узел Code."
+}

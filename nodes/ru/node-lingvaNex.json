@@ -1,0 +1,18 @@
+{
+ "__displayName": "LingvaNex",
+ "__description": "Использовать LingvaNex API",
+ "operation.displayName": "Операция",
+ "operation.options.translate.displayName": "Перевести",
+ "operation.options.translate.description": "Перевести данные",
+ "text.displayName": "Текст",
+ "text.description": "Входной текст для перевода",
+ "translateTo.displayName": "Перевести на",
+ "translateTo.description": "Язык перевода входного текста — один из кодов, перечисленных в <a href=\"https://cloud.google.com/translate/docs/languages\">Language Support</a>. Выберите из списка или укажите ID с помощью <a href=\"https://docs.n8n.io/code/expressions/\">выражения</a>.",
+ "options.displayName": "Дополнительные параметры",
+ "options.placeholder": "Добавить вариант",
+ "options.options.from.displayName": "от",
+ "options.options.from.description": "Код языка в формате «код языка_код страны». Если этот параметр отсутствует, включается режим автоматического определения языка. Выберите из списка или укажите ID с помощью <a href=\"https://docs.n8n.io/code/expressions/\">выражения</a>.",
+ "options.options.platform.displayName": "platform",
+ "options.options.translateMode.displayName": "translateMode",
+ "options.options.translateMode.description": "Описывает формат входного текста. Возможное значение — «html» для перевода с сохранением структуры HTML. Если значение не указано или отличается от «html», переводится обычный текст."
+}

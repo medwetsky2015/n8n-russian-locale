@@ -1,0 +1,17 @@
+{
+ "__displayName": "Триггер Calendly",
+ "__description": "Запускает рабочий процесс при возникновении событий Calendly",
+ "authentication.displayName": "Аутентификация",
+ "authentication.options.oAuth2.displayName": "OAuth2 (рекомендуется)",
+ "authentication.options.apiKey.displayName": "Токен личного доступа",
+ "scope.displayName": "Область доступа",
+ "scope.options.organization.displayName": "Организация",
+ "scope.options.organization.description": "Запускает вебхук для всех подписанных событий в организации",
+ "scope.options.user.displayName": "Пользователь",
+ "scope.options.user.description": "Запускает вебхук для подписанных событий, принадлежащих текущему пользователю",
+ "events.displayName": "События",
+ "events.options.invitee.created.displayName": "Событие создано",
+ "events.options.invitee.created.description": "Получать уведомления при создании нового события Calendly",
+ "events.options.invitee.canceled.displayName": "Событие отменено",
+ "events.options.invitee.canceled.description": "Получать уведомления при отмене события Calendly"
+}

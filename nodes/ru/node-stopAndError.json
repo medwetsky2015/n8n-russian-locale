@@ -1,0 +1,13 @@
+{
+ "__displayName": "Остановить и ошибка",
+ "__description": "Вызвать ошибку в рабочем процессе",
+ "errorType.displayName": "Тип ошибка",
+ "errorType.description": "Тип ошибки для вызова",
+ "errorType.options.errorMessage.displayName": "Сообщение об ошибке",
+ "errorType.options.errorObject.displayName": "Объект ошибки",
+ "errorMessage.displayName": "Сообщение об ошибке",
+ "errorMessage.placeholder": "Произошла ошибка!",
+ "errorObject.displayName": "Объект ошибки",
+ "errorObject.description": "Объект, содержащий свойства ошибки",
+ "errorObject.placeholder": "{\n\t\"code\": \"404\",\n\t\"description\": \"The resource could not be fetched\"\n}"
+}

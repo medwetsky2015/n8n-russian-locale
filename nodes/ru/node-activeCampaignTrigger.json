@@ -1,0 +1,15 @@
+{
+ "__displayName": "ActiveCampaign Trigger",
+ "__description": "Обработка событий ActiveCampaign через вебхуки",
+ "events.displayName": "Названия событий или ID",
+ "events.description": "Выберите из списка или укажите ID с помощью <a href=\"https://docs.n8n.io/code/expressions/\">выражения</a>",
+ "sources.displayName": "Источник",
+ "sources.options.public.displayName": "Публичный",
+ "sources.options.public.description": "Запускать хуки, когда контакт инициирует действие",
+ "sources.options.admin.displayName": "Администратор",
+ "sources.options.admin.description": "Запускать хуки, когда администратор инициирует действие",
+ "sources.options.api.displayName": "Api",
+ "sources.options.api.description": "Запускать хуки, когда вызов API инициирует действие",
+ "sources.options.system.displayName": "Система",
+ "sources.options.system.description": "Запускать хуки, когда автоматизированные системы инициируют действие"
+}

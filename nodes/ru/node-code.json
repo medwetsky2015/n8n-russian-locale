@@ -1,0 +1,17 @@
+{
+ "__displayName": "Код",
+ "__description": "Запустить пользовательский код JavaScript или Python",
+ "mode.displayName": "Режим",
+ "mode.options.runOnceForAllItems.displayName": "Запустить один раз для всех элементов",
+ "mode.options.runOnceForAllItems.description": "Запускать этот код только один раз, независимо от количества входных элементов",
+ "mode.options.runOnceForEachItem.displayName": "Запустить один раз для каждого элемента",
+ "mode.options.runOnceForEachItem.description": "Запускать этот код столько раз, сколько входных элементов",
+ "language.displayName": "Язык",
+ "language.options.javaScript.displayName": "JavaScript",
+ "language.options.pythonNative.displayName": "Python",
+ "jsCode.displayName": "JavaScript",
+ "jsCode.description": "Код JavaScript для выполнения.<br><br>Совет: вы можете использовать переменные luxon, такие как <code>$today</code>, для дат и <code>$jmespath</code> для запросов к структурам JSON. <a href=\"https://docs.n8n.io/nodes/n8n-nodes-base.function\">Узнать больше</a>.",
+ "notice.displayName": "Отладка с помощью операторов <code>print()</code> и просмотра их вывода в консоли браузера.<br><br>Вариант Python не поддерживает синтаксис <code>_</code> и помощники, кроме <code>_items</code> в режиме всех элементов и <code>_item</code> в режиме поэлементной обработки.<br><br>Импорты отключены, если ваш экземпляр их не разрешает.",
+ "pythonCode.displayName": "Python",
+ "pythonCode.description": "Код Python для выполнения. Запускается в песочнице без доступа к сети, и импорты работают только если ваш экземпляр разрешает их: считывайте входные элементы из <code>_items</code> (режим всех элементов) или <code>_item</code> (режим по элементам). <a href=\"https://docs.n8n.io/code/builtin/\">Узнать больше</a>."
+}

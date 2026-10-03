@@ -1,0 +1,13 @@
+{
+ "__displayName": "Invoice Ninja Trigger",
+ "__description": "Запускает рабочий процесс при возникновении событий Invoice Ninja",
+ "apiVersion.displayName": "Версия API",
+ "apiVersion.options.v4.displayName": "Версия 4",
+ "apiVersion.options.v5.displayName": "Версия 5",
+ "event.displayName": "Событие",
+ "event.options.create_client.displayName": "Клиент создан",
+ "event.options.create_invoice.displayName": "Счёт создан",
+ "event.options.create_payment.displayName": "Платёж создан",
+ "event.options.create_quote.displayName": "Предложение создано",
+ "event.options.create_vendor.displayName": "Поставщик создан"
+}

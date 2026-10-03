@@ -1,0 +1,11 @@
+{
+ "__displayName": "Customer Datastore (n8n training)",
+ "__description": "Тестовый узел для обучения n8n",
+ "operation.displayName": "Операция",
+ "operation.options.getOnePerson.displayName": "Получить одного человека",
+ "operation.options.getAllPeople.displayName": "Получить всех людей",
+ "returnAll.displayName": "Вернуть все",
+ "returnAll.description": "Возвращать все результаты или только до указанного лимита",
+ "limit.displayName": "Лимит",
+ "limit.description": "Максимальное число возвращаемых результатов"
+}

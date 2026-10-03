@@ -1,0 +1,15 @@
+{
+ "__displayName": "Wise Trigger",
+ "__description": "Обработка событий Wise через вебхуки",
+ "profileId.displayName": "Название профиля или ID",
+ "profileId.description": "Выберите из списка или укажите ID с помощью <a href=\"https://docs.n8n.io/code/expressions/\">выражения</a>",
+ "event.displayName": "Событие",
+ "event.options.balanceCredit.displayName": "Кредитный баланс",
+ "event.options.balanceCredit.description": "Срабатывает каждый раз, когда балансовый счёт пополняется",
+ "event.options.balanceUpdate.displayName": "Обновление баланса",
+ "event.options.balanceUpdate.description": "Срабатывает каждый раз, когда балансовый счёт пополняется или списывается",
+ "event.options.transferActiveCases.displayName": "Активный случай перевода",
+ "event.options.transferActiveCases.description": "Срабатывает каждый раз, когда обновляется список активных случаев перевода",
+ "event.options.tranferStateChange.displayName": "Состояние перевода изменено",
+ "event.options.tranferStateChange.description": "Срабатывает каждый раз, когда обновляется статус перевода"
+}

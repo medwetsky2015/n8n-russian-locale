@@ -1,0 +1,17 @@
+{
+ "__displayName": "Linear Trigger",
+ "__description": "Запускает рабочий процесс при возникновении событий Linear",
+ "authentication.displayName": "Аутентификация",
+ "authentication.options.apiToken.displayName": "Токен API",
+ "authentication.options.oAuth2.displayName": "OAuth2",
+ "notice.displayName": "Убедитесь, что ваши учётные данные имеют область доступа \"Admin\" для создания вебхуков.",
+ "teamId.displayName": "Название команды или ID",
+ "teamId.description": "Выберите из списка или укажите ID с помощью <a href=\"https://docs.n8n.io/code/expressions/\">выражения</a>",
+ "resources.displayName": "Слушать ресурсы",
+ "resources.options.reaction.displayName": "Реакция на комментарий",
+ "resources.options.cycle.displayName": "Цикл",
+ "resources.options.issue.displayName": "Проблема",
+ "resources.options.comment.displayName": "Комментарий к задаче",
+ "resources.options.issueLabel.displayName": "Метка задачи",
+ "resources.options.project.displayName": "Проект"
+}

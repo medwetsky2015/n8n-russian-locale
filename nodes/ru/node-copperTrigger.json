@@ -1,0 +1,20 @@
+{
+ "__displayName": "Copper Trigger",
+ "__description": "Обработка событий Copper через вебхуки",
+ "resource.displayName": "Ресурс",
+ "resource.description": "Ресурс, который будет инициировать событие",
+ "resource.options.company.displayName": "Компания",
+ "resource.options.lead.displayName": "Лид",
+ "resource.options.opportunity.displayName": "Возможность",
+ "resource.options.person.displayName": "Человек",
+ "resource.options.project.displayName": "Проект",
+ "resource.options.task.displayName": "Задача",
+ "event.displayName": "Событие",
+ "event.description": "Событие для прослушивания",
+ "event.options.delete.displayName": "Удалить",
+ "event.options.delete.description": "Существующая запись удаляется",
+ "event.options.new.displayName": "Новый",
+ "event.options.new.description": "Новая запись создана",
+ "event.options.update.displayName": "Обновить",
+ "event.options.update.description": "Любое поле в существующей записи сущности изменяется"
+}

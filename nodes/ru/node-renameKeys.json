@@ -1,0 +1,18 @@
+{
+ "__displayName": "Переименовать ключи",
+ "__description": "Обновить названия полей элемента",
+ "keys.displayName": "Ключи",
+ "keys.description": "Добавляет ключ, который следует переименовать",
+ "keys.placeholder": "Добавить новый ключ",
+ "keys.options.key.displayName": "key",
+ "keys.options.key.values.currentKey.displayName": "Текущее название ключа",
+ "keys.options.key.values.currentKey.description": "Текущее название ключа. Также можно определять глубокие ключи с помощью точечной нотации, например: «level1.level2.currentKey».",
+ "keys.options.key.values.currentKey.placeholder": "current_position",
+ "keys.options.key.values.newKey.displayName": "Новое название ключа",
+ "keys.options.key.values.newKey.description": "Название, на которое следует переименовать ключ. Также можно определить глубокие ключи с помощью точечной нотации, например: \"level1.level2.newKey\".",
+ "keys.options.key.values.newKey.placeholder": "newKey",
+ "additionalOptions.displayName": "Дополнительные параметры",
+ "additionalOptions.placeholder": "Добавить вариант",
+ "additionalOptions.options.regexReplacement.displayName": "regexReplacement",
+ "additionalOptions.options.regexReplacement.description": "Добавляет регулярное выражение"
+}

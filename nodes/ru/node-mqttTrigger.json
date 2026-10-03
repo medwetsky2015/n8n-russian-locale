@@ -1,0 +1,14 @@
+{
+ "__displayName": "MQTT Trigger",
+ "__description": "Слушает события MQTT",
+ "topics.displayName": "Темы",
+ "topics.description": "Темы для подписки, несколько можно указать через запятую. Поддерживаются подстановочные символы (+ — для одного уровня и # — для нескольких уровней). По умолчанию все подписки используют QoS=0. Чтобы задать другой QoS, укажите желаемый QoS после темы через двоеточие. Например: topicA:1,topicB:2",
+ "options.displayName": "Параметры",
+ "options.placeholder": "Добавить вариант",
+ "options.options.jsonParseBody.displayName": "jsonParseBody",
+ "options.options.jsonParseBody.description": "Пытаться разобрать сообщение в объект",
+ "options.options.onlyMessage.displayName": "onlyMessage",
+ "options.options.onlyMessage.description": "Возвращать ли только свойство сообщения",
+ "options.options.parallelProcessing.displayName": "parallelProcessing",
+ "options.options.parallelProcessing.description": "Обрабатывать сообщения параллельно или с сохранением порядка сообщений"
+}

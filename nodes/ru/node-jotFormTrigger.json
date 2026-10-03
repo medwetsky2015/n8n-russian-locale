@@ -1,0 +1,10 @@
+{
+ "__displayName": "Jotform Trigger",
+ "__description": "Обработка событий Jotform через вебхуки",
+ "form.displayName": "Название формы или ID",
+ "form.description": "Выберите из списка или укажите ID с помощью <a href=\"https://docs.n8n.io/code/expressions/\">выражения</a>",
+ "resolveData.displayName": "Разрешить данные",
+ "resolveData.description": "По умолчанию данные webhook используют внутренние ключи вместо названий. Если этот параметр активирован, ключи будут автоматически разрешены в фактические названия.",
+ "onlyAnswers.displayName": "Только ответы",
+ "onlyAnswers.description": "Возвращать ли только ответы формы, а не другие данные"
+}

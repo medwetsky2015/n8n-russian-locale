@@ -1,0 +1,6 @@
+{
+ "__displayName": "LoneScale Trigger",
+ "__description": "Запустить рабочий процесс LoneScale",
+ "workflow.displayName": "Название рабочего процесса",
+ "workflow.description": "Выберите один рабочий процесс. Выберите из списка"
+}

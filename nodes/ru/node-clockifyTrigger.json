@@ -1,0 +1,8 @@
+{
+ "__displayName": "Clockify Trigger",
+ "__description": "Слушает события Clockify",
+ "workspaceId.displayName": "Название рабочего пространства или ID",
+ "workspaceId.description": "Выберите из списка или укажите ID с помощью <a href=\"https://docs.n8n.io/code/expressions/\">выражения</a>",
+ "watchField.displayName": "Триггер",
+ "watchField.options.0.displayName": "Новая запись времени"
+}

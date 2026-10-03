@@ -1,0 +1,14 @@
+{
+ "__displayName": "Данные выполнения",
+ "__description": "Добавить данные выполнения для поиска",
+ "notice.displayName": "Сохраняйте важные данные с помощью этого узла. Они будут отображаться при каждом выполнении для быстрого доступа, и вы можете фильтровать по ним.<br />Фильтрация доступна в тарифах Pro и Enterprise. <a href='https://n8n.io/pricing/' target='_blank'>Подробнее</a>",
+ "operation.displayName": "Операция",
+ "operation.options.save.displayName": "Сохранить данные выделения (для поиска/просмотра)",
+ "dataToSave.displayName": "Данные для сохранения",
+ "dataToSave.placeholder": "Добавить сохранённое поле",
+ "dataToSave.options.values.displayName": "значения",
+ "dataToSave.options.values.values.key.displayName": "Ключ",
+ "dataToSave.options.values.values.key.placeholder": "e.g. myValue",
+ "dataToSave.options.values.values.value.displayName": "Значение",
+ "dataToSave.options.values.values.value.placeholder": "e.g. myblob"
+}

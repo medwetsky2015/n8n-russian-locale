@@ -1,0 +1,9 @@
+{
+ "__displayName": "Trello Trigger",
+ "__description": "Запускает рабочий процесс при возникновении событий Trello",
+ "authentication.displayName": "Аутентификация",
+ "authentication.options.apiKey.displayName": "Ключ API",
+ "authentication.options.oAuth1.displayName": "OAuth1",
+ "id.displayName": "ID модели",
+ "id.description": "ID модели, на события которой нужно подписаться"
+}

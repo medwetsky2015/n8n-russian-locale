@@ -1,0 +1,14 @@
+{
+ "__displayName": "TOTP",
+ "__description": "Сгенерировать одноразовый пароль на основе времени",
+ "operation.displayName": "Операция",
+ "operation.options.generateSecret.displayName": "Сгенерировать секрет",
+ "options.displayName": "Параметры",
+ "options.placeholder": "Добавить вариант",
+ "options.options.algorithm.displayName": "algorithm",
+ "options.options.algorithm.description": "Алгоритм хеширования HMAC. По умолчанию SHA1.",
+ "options.options.digits.displayName": "dim",
+ "options.options.digits.description": "Количество цифр в сгенерированном коде TOTP. По умолчанию 6 цифр.",
+ "options.options.period.displayName": "period",
+ "options.options.period.description": "Сколько секунд действителен сгенерированный TOTP-код. По умолчанию 30 секунд."
+}

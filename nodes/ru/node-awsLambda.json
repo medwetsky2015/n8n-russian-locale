@@ -1,0 +1,22 @@
+{
+ "__displayName": "AWS Lambda",
+ "__description": "Вызвать функции на AWS Lambda",
+ "authentication.displayName": "Аутентификация",
+ "authentication.options.iam.displayName": "AWS (IAM)",
+ "authentication.options.assumeRole.displayName": "AWS (Assume Role)",
+ "operation.displayName": "Операция",
+ "operation.options.invoke.displayName": "Вызвать",
+ "operation.options.invoke.description": "Вызвать функцию",
+ "function.displayName": "Название или ID функции",
+ "function.description": "Функция, которую нужно вызвать. Выберите из списка или укажите ID с помощью <a href=\"https://docs.n8n.io/code/expressions/\">выражения</a>.",
+ "qualifier.displayName": "Квалификатор",
+ "qualifier.description": "Укажите версию или псевдоним для вызова опубликованной версии функции",
+ "invocationType.displayName": "Тип вызова",
+ "invocationType.description": "Укажите, должен ли рабочий процесс ждать возврата результатов функцией",
+ "invocationType.options.RequestResponse.displayName": "Ожидание результатов",
+ "invocationType.options.RequestResponse.description": "Вызвать функцию синхронно и дождаться ответа",
+ "invocationType.options.Event.displayName": "Продолжить рабочий процесс",
+ "invocationType.options.Event.description": "Вызвать функцию и сразу продолжить рабочий процесс",
+ "payload.displayName": "Входные данные JSON",
+ "payload.description": "JSON, который вы хотите передать в вашу функцию Lambda в качестве входных данных"
+}

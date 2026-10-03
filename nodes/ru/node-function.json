@@ -1,0 +1,7 @@
+{
+ "__displayName": "Функция",
+ "__description": "Запустить код пользовательской функции, который выполняется один раз и позволяет добавлять, удалять, изменять и заменять элементы",
+ "notice.displayName": "Доступна более новая версия этого типа узла, называемая узлом «Code»",
+ "functionCode.displayName": "Код JavaScript",
+ "functionCode.description": "JavaScript-код для выполнения"
+}

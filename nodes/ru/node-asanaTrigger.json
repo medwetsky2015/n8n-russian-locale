@@ -1,0 +1,11 @@
+{
+ "__displayName": "Asana Trigger",
+ "__description": "Запускает рабочий процесс при возникновении событий Asana.",
+ "authentication.displayName": "Аутентификация",
+ "authentication.options.accessToken.displayName": "Токен доступа",
+ "authentication.options.oAuth2.displayName": "OAuth2",
+ "resource.displayName": "Ресурс",
+ "resource.description": "ID ресурса для подписки. Ресурсом может быть задача или проект.",
+ "workspace.displayName": "Название рабочего пространства или ID",
+ "workspace.description": "ID рабочего пространства, в котором зарегистрирован ресурс. Требуется только если нужно разрешить переопределение существующих вебхуков. Выберите из списка или укажите ID с помощью <a href=\"https://docs.n8n.io/code/expressions/\">выражения</a>."
+}

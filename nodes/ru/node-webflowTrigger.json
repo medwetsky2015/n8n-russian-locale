@@ -1,0 +1,18 @@
+{
+ "__displayName": "Webflow Trigger",
+ "__description": "Обработка событий Webflow через вебхуки",
+ "authentication.displayName": "Аутентификация",
+ "authentication.options.accessToken.displayName": "Токен доступа",
+ "authentication.options.oAuth2.displayName": "OAuth2",
+ "site.displayName": "Название сайта или ID",
+ "site.description": "Сайт, который будет вызывать события. Выберите из списка или укажите ID с помощью <a href=\"https://docs.n8n.io/code/expressions/\">выражения</a>.",
+ "event.displayName": "Событие",
+ "event.options.collection_item_created.displayName": "Элемент коллекции создан",
+ "event.options.collection_item_deleted.displayName": "Элемент коллекции удалён",
+ "event.options.collection_item_changed.displayName": "Элемент коллекции обновлён",
+ "event.options.ecomm_inventory_changed.displayName": "Изменение запасов электронной коммерции",
+ "event.options.ecomm_new_order.displayName": "Новый заказ электронной коммерции",
+ "event.options.ecomm_order_changed.displayName": "Изменение заказа электронной коммерции",
+ "event.options.form_submission.displayName": "Отправка формы",
+ "event.options.site_publish.displayName": "Публикация сайта"
+}

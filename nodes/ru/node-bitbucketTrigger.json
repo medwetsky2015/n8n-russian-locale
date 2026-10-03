@@ -1,0 +1,16 @@
+{
+ "__displayName": "Триггер Bitbucket",
+ "__description": "Обработка событий Bitbucket через вебхуки",
+ "authentication.displayName": "Аутентификация",
+ "authentication.options.password.displayName": "Пароль (устарело)",
+ "authentication.options.accessToken.displayName": "Токен доступа",
+ "resource.displayName": "Ресурс",
+ "resource.options.repository.displayName": "Репозиторий",
+ "resource.options.workspace.displayName": "Рабочая область",
+ "workspace.displayName": "Название рабочего пространства или ID",
+ "workspace.description": "Репозиторий, события которого нужно прослушивать. Выберите из списка или укажите ID с помощью <a href=\"https://docs.n8n.io/code/expressions/\">выражения</a>.",
+ "events.displayName": "Названия событий или ID",
+ "events.description": "События для прослушивания. Выберите из списка или укажите ID с помощью <a href=\"https://docs.n8n.io/code/expressions/\">выражения</a>.",
+ "repository.displayName": "Название или ID репозитория",
+ "repository.description": "Репозиторий, события которого нужно прослушивать. Выберите из списка или укажите ID с помощью <a href=\"https://docs.n8n.io/code/expressions/\">выражения</a>."
+}

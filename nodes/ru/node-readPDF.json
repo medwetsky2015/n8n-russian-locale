@@ -1,0 +1,9 @@
+{
+ "__displayName": "Прочитать PDF",
+ "__description": "Читает PDF и извлекает его содержимое",
+ "binaryPropertyName.displayName": "Входное бинарное поле",
+ "binaryPropertyName.description": "Название бинарного свойства, из которого читать PDF-файл",
+ "encrypted.displayName": "Зашифровано",
+ "password.displayName": "Пароль",
+ "password.description": "Пароль для расшифровки файла PDF"
+}

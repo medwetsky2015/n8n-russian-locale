@@ -1,0 +1,15 @@
+{
+ "__displayName": "Mindee",
+ "__description": "Использовать Mindee API",
+ "apiVersion.displayName": "Версия API",
+ "apiVersion.description": "Какую версию Mindee API использовать",
+ "resource.displayName": "Ресурс",
+ "resource.options.invoice.displayName": "Счёт",
+ "resource.options.receipt.displayName": "Квитанция",
+ "operation.displayName": "Операция",
+ "operation.options.predict.displayName": "Предсказать",
+ "binaryPropertyName.displayName": "Входное бинарное поле",
+ "binaryPropertyName.hint": "Название входного бинарного поля, содержащего файл для загрузки",
+ "rawData.displayName": "Исходные данные",
+ "rawData.description": "Возвращать ли данные точно в том виде, в котором они были получены от API"
+}

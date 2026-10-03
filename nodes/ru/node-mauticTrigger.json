@@ -1,0 +1,13 @@
+{
+ "__displayName": "Триггер Mautic",
+ "__description": "Обработка событий Mautic через вебхуки",
+ "authentication.displayName": "Аутентификация",
+ "authentication.options.credentials.displayName": "Учётные данные",
+ "authentication.options.oAuth2.displayName": "OAuth2",
+ "events.displayName": "Названия событий или ID",
+ "events.description": "Выберите из списка или укажите ID с помощью <a href=\"https://docs.n8n.io/code/expressions/\">выражения</a>",
+ "eventsOrder.displayName": "Порядок событий",
+ "eventsOrder.description": "Направление сортировки для событий в очереди одного вебхука. Может быть «DESC» или «ASC».",
+ "eventsOrder.options.ASC.displayName": "ASC",
+ "eventsOrder.options.DESC.displayName": "DESC"
+}

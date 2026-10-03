@@ -1,0 +1,10 @@
+{
+ "__displayName": "Peekalink",
+ "__description": "Использовать Peekalink API",
+ "operation.displayName": "Операция",
+ "operation.options.isAvailable.displayName": "Доступен",
+ "operation.options.isAvailable.description": "Проверить, доступен ли предварительный просмотр для данной ссылки",
+ "operation.options.preview.displayName": "Предпросмотр",
+ "operation.options.preview.description": "Вернуть предварительный просмотр ссылки",
+ "url.displayName": "URL"
+}

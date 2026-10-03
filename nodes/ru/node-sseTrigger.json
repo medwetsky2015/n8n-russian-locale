@@ -1,0 +1,7 @@
+{
+ "__displayName": "Триггер SSE",
+ "__description": "Запускает рабочий процесс при возникновении Server-Sent Events",
+ "__activationMessage": "Теперь вы можете выполнять вызовы к вашему SSE URL для запуска выполнений.",
+ "url.displayName": "URL",
+ "url.description": "URL для получения SSE"
+}

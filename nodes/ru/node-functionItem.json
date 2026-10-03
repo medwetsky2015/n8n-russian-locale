@@ -1,0 +1,7 @@
+{
+ "__displayName": "Элемент функции",
+ "__description": "Запустить код пользовательской функции, который выполняется один раз для каждого элемента",
+ "notice.displayName": "Доступна более новая версия этого типа узла, называемая узлом «Code»",
+ "functionCode.displayName": "Код JavaScript",
+ "functionCode.description": "JavaScript-код для выполнения для каждого элемента"
+}

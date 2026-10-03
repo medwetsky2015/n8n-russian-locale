@@ -1,0 +1,9 @@
+{
+ "__displayName": "Прочитать бинарные файлы",
+ "__description": "Читает бинарные файлы с диска",
+ "fileSelector.displayName": "Селектор файлов",
+ "fileSelector.description": "Шаблон для файлов на чтение",
+ "fileSelector.placeholder": "*.jpg",
+ "dataPropertyName.displayName": "Название свойства",
+ "dataPropertyName.description": "Название бинарного свойства, в которое записывать данные прочитанных файлов"
+}

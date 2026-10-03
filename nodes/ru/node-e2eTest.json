@@ -1,0 +1,14 @@
+{
+ "__displayName": "E2E Test",
+ "__description": "Фиктивный узел, используемый для e2e-тестирования",
+ "operation.displayName": "Операция",
+ "operation.options.remoteOptions.displayName": "Удалённые параметры",
+ "operation.options.resourceLocator.displayName": "Локатор ресурса",
+ "operation.options.resourceMapper.displayName": "Компонент сопоставления ресурсов",
+ "fieldId.displayName": "ID поля",
+ "remoteOptions.displayName": "Название или ID удалённых параметров",
+ "remoteOptions.description": "Удалённые параметры для загрузки. Выберите из списка или укажите ID с помощью <a href=\"https://docs.n8n.io/code/expressions/\">выражения</a>.",
+ "rlc.displayName": "Локатор ресурса",
+ "resourceMapper.displayName": "Компонент сопоставления ресурсов",
+ "otherField.displayName": "Другое незначительное поле"
+}

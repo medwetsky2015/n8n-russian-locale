@@ -1,0 +1,6 @@
+{
+ "__displayName": "Venafi TLS Protect Datacenter Trigger",
+ "__description": "Запускает рабочий процесс при возникновении событий Venafi",
+ "triggerOn.displayName": "Триггер при",
+ "triggerOn.options.certificateExpired.displayName": "Сертификат истёк"
+}

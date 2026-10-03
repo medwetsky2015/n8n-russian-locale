@@ -1,0 +1,12 @@
+{
+ "__displayName": "Чтение RSS",
+ "__description": "Читает данные из RSS Feed",
+ "url.displayName": "URL",
+ "url.description": "URL RSS-канала",
+ "options.displayName": "Параметры",
+ "options.placeholder": "Добавить вариант",
+ "options.options.customFields.displayName": "customFields",
+ "options.options.customFields.description": "Список пользовательских полей, разделённых запятыми, для включения в вывод. Например, «author, contentSnippet».",
+ "options.options.ignoreSSL.displayName": "ignoreSSL",
+ "options.options.ignoreSSL.description": "Игнорировать проблемы с сертификатами SSL/TLS или нет"
+}

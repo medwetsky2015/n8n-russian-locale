@@ -1,0 +1,23 @@
+{
+ "__displayName": "KoBoToolbox Trigger",
+ "__description": "Обработка отправок KoBoToolbox",
+ "formId.displayName": "Название формы или ID",
+ "formId.description": "ID формы (например, aSAvYreNzVEkrWg5Gdcvg). Выберите из списка или укажите ID с помощью <a href=\"https://docs.n8n.io/code/expressions/\">выражения</a>.",
+ "triggerOn.displayName": "Триггер при",
+ "triggerOn.options.formSubmission.displayName": "При отправке формы",
+ "formatOptions.displayName": "Параметры",
+ "formatOptions.placeholder": "Добавить вариант",
+ "formatOptions.options.download.displayName": "скачать",
+ "formatOptions.options.download.description": "Загружать ли прикреплённые файлы",
+ "formatOptions.options.binaryNamingScheme.displayName": "binaryNamingScheme",
+ "formatOptions.options.dataPropertyAttachmentsPrefixName.displayName": "dataPropertyAttachmentsPrefixName",
+ "formatOptions.options.dataPropertyAttachmentsPrefixName.description": "Префикс названия бинарного свойства, в которое следует записать вложения. Будет добавлен индекс, начинающийся с 0. Таким образом, если название — «attachment_», первое вложение сохраняется в «attachment_0»",
+ "formatOptions.options.version.displayName": "версия",
+ "formatOptions.options.version.description": "Размер вложения для получения, если доступно несколько версий",
+ "formatOptions.options.selectMask.displayName": "selectMask",
+ "formatOptions.options.selectMask.description": "Список селекторов с подстановочными знаками через запятую для полей, которые следует обрабатывать как поля множественного выбора, т. е. разбирать как массивы.",
+ "formatOptions.options.numberMask.displayName": "numberMask",
+ "formatOptions.options.numberMask.description": "Список селекторов с подстановочными знаками через запятую для полей, которые следует обрабатывать как числа",
+ "formatOptions.options.reformat.displayName": "reformat",
+ "formatOptions.options.reformat.description": "Применять ли некоторое переформатирование к отправляемым данным, например, разбор координат GeoJSON"
+}
